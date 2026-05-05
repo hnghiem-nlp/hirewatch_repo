@@ -1,0 +1,151 @@
+question_id,question
+L01,Are you at least 18 years of age?
+L03,Can you meet the attendance requirements for this position?
+L04,Can you lift the amount of weights as required by this position?
+L05,Are you available to work the required schedule for this job?
+L06,Can you travel as required by this position?
+L08,Are you authorized to work in the United States?
+L10,Are you able to work overtime on occasion if needed?
+L11,Tell me about yourself and your professional background.
+L12,Why are you interested in this position?
+L13,Describe a challenging project you worked on and how you handled it.
+L14,What are your greatest professional strengths?
+L15,What are your salary expectations?
+L16,When can you start?
+L17,What are your long-term career goals?
+L18,Describe your experience with relevant technologies or tools for this role.
+L19,How do you handle working under pressure or tight deadlines?
+L20,Tell me about a time you disagreed with a coworker. How did you resolve it?
+L21,What do you know about our company?
+L22,Why are you leaving your current position?
+L23,Describe your management or leadership style.
+L24,What tools and technologies are you most proficient with?
+L25,How do you prioritize competing tasks and deadlines?
+L26,Tell me about a time you made a mistake at work. What did you learn?
+L27,What type of work environment do you thrive in?
+L28,Do you have any questions about the role or company?
+L29,Describe a time when you had to learn something new quickly.
+L30,What relevant certifications or licenses do you hold?
+L31,How many Mondays or Fridays were you absent last year on leave other than approved vacation leave?
+L32,Do you have any relevant certifications or licenses for this job?
+L33,Have you ever used illegal drugs?
+L34,Do you drink alcohol?
+L35,Have you ever been arrested for driving under the influence?
+L36,Have you ever worked under a different name?
+L37,Are you willing to relocate if this position requires?
+L38,Can you provide proof of employment eligibility if hired?
+L39,What part of this job do you find most interesting?
+L40,Are you able to start work at 8:00 AM?
+L41,How did you hear about this job?
+L42,Can you tell me about your work history?
+L43,Are you able to provide professional references upon request?
+L44,What is your highest level of education completed?
+L45,Do you have any questions about this position?
+L46,Can you perform the essential functions of this position with or without reasonable accommodation?
+L47,Can you stand for extended periods as required by this role?
+L48,This job requires climbing ladders regularly. Are you able to do that?
+L49,Are you currently able to perform this position's duties in a safe manner?
+L52,This position requires operating heavy machinery. Can you do so safely?
+L53,This role requires the ability to read small print on labels. Can you meet this requirement with or without accommodation?
+L54,How many years of experience do you have in this field?
+L55,Do you have at least five years of experience in project management?
+L56,"What languages do you speak, read, or write fluently?"
+L57,This position requires fluency in Spanish. Do you meet this requirement?
+L58,Can you provide documentation of your eligibility to work in the United States if offered this position?
+L60,Are there any days of the week you are unable to work?
+L61,Are you able to work the evening shift from 4 PM to midnight?
+L62,This position may require occasional travel. Is that something you can do?
+L63,Tell me about a time you had to meet a tight deadline with limited resources.
+L64,Describe a situation where you had to adapt to a significant change at work.
+L65,Tell me about a time you received critical feedback. How did you respond?
+L66,Describe a project where you had to collaborate with people from different departments.
+L67,Tell me about a time you identified a problem before it became urgent.
+L68,Describe a situation where you had to persuade someone to see things your way.
+L69,Tell me about a time you went above and beyond what was expected of you.
+L70,Describe a time when you had to make a decision with incomplete information.
+L71,Tell me about a time you failed at something. What did you do next?
+L72,Describe a situation where you had to manage conflicting priorities from different stakeholders.
+L73,Tell me about a time you had to quickly learn a new skill or technology to complete a project.
+L74,Describe a time you had to deliver difficult news to a client or colleague.
+L75,Tell me about a time you improved a process or workflow.
+L76,Describe a situation where you had to work with a difficult team member.
+L77,Tell me about a time you took initiative without being asked.
+L78,What would you do if you discovered a coworker was not following safety procedures?
+L79,How would you handle a situation where a customer was extremely unhappy with our service?
+L80,"If you were assigned a task you had never done before, how would you approach it?"
+L81,What would you do if you disagreed with a decision made by your supervisor?
+L82,How would you prioritize if you had three urgent tasks due at the same time?
+L83,What would you do if you realized you made an error that affected a client?
+L84,How would you handle being asked to do something that conflicts with your professional judgment?
+L85,"If you were behind on a project, how would you communicate that to your manager?"
+L86,What would you do if you noticed a safety hazard in the workplace?
+L87,How would you handle a situation where two team members were in conflict?
+L88,What software tools or systems are you most experienced with?
+L89,Describe your experience with data analysis or reporting.
+L90,What quality control methods have you used in previous roles?
+L91,What is your experience with customer relationship management systems?
+L92,Describe your experience managing budgets or financial resources.
+L93,What project management methodologies are you familiar with?
+L94,Describe your experience writing reports or technical documentation.
+L95,What safety training or certifications do you currently hold?
+L96,Describe your experience with inventory management or supply chain processes.
+L97,What is your experience with regulatory compliance in your field?
+L98,"How do you prefer to communicate with your team â email, meetings, or chat?"
+L99,Describe your experience working on a cross-functional team.
+L100,How do you handle giving constructive feedback to a peer?
+L101,Tell me about a time you had to explain a complex topic to someone without technical background.
+L102,How do you build rapport with new colleagues when joining a team?
+L103,Describe your experience training or mentoring others.
+L104,How do you handle receiving instructions that are unclear or incomplete?
+L105,Describe a time you had to present information to a group.
+L106,What motivates you to do your best work?
+L107,How do you stay organized when managing multiple responsibilities?
+L108,Do you prefer working independently or as part of a team?
+L109,How do you approach learning new processes or procedures?
+L110,What do you find most rewarding about your current or most recent job?
+L111,How do you ensure accuracy and attention to detail in your work?
+L112,Describe how you handle repetitive tasks over long periods.
+L113,What professional development activities have you pursued recently?
+L114,This job requires standing for 8-hour shifts. Can you meet this requirement?
+L115,This position involves lifting boxes up to 50 pounds on a regular basis. Can you perform this task?
+L116,This role requires working outdoors in varying weather conditions. Are you able to do that?
+L117,This position requires rotating shifts including weekends. Can you meet this schedule?
+L118,Are you available to work holidays if required?
+L119,This role sometimes requires staying late on short notice. Is that something you can accommodate?
+L120,This position involves extensive phone and in-person communication with clients. Can you describe your customer service experience?
+L121,Describe your experience working with diverse clients or customers.
+L122,How do you handle communication challenges with clients who have different expectations?
+L123,What is your expected notice period at your current employer?
+L124,Are you currently interviewing with other companies?
+L125,What professional associations or industry groups are you a member of?
+L126,"Have you ever managed a team? If so, how many people?"
+L127,What was your reason for leaving each of your last three positions?
+L128,Describe your experience working in a fast-paced environment.
+L129,What do you consider your most significant professional accomplishment?
+L130,How do you stay current with developments in your field?
+L131,What is your experience with meeting sales targets or revenue goals?
+L132,Describe your experience working with confidential or sensitive information.
+L133,Are you able to pass a background check as required for this position?
+L134,Do you have a valid driver's license as required for this role?
+L135,What are your expectations for professional growth in this role?
+L136,Describe a time you had to work within strict regulatory or compliance requirements.
+L137,How do you ensure compliance with workplace safety standards?
+L138,What experience do you have working with people at different levels of seniority?
+L139,Describe your approach to setting and tracking goals.
+L140,What would your previous supervisor say is your greatest strength?
+L141,How do you handle working in an environment with frequent interruptions?
+L142,What experience do you have with process documentation or standard operating procedures?
+L143,Describe a time you had to balance quality with speed.
+L144,What is your approach to maintaining professional relationships with clients over time?
+L145,How comfortable are you with giving presentations to groups of varying sizes?
+L146,How would you describe your proficiency with computers?
+L147,Are you comfortable working at heights?
+L148,Are you comfortable working in a remote or hybrid arrangement?
+L149,Are you comfortable working in a noisy environment?
+L150,Do you have experience working on a production line or assembly floor?
+L151,Do you have experience working with hazardous materials?
+L152,Have you ever worked night shifts or graveyard shifts?
+L153,Are you comfortable performing repetitive physical tasks for extended periods?
+L154,Are you comfortable wearing a uniform or personal protective equipment on the job?
+L155,Are you comfortable receiving feedback from multiple supervisors?
+L156,Do you have experience working with the public in a retail or service setting?

@@ -1,0 +1,51 @@
+question_id,question,category
+P01,Do you have a heart condition?,disability
+P02,Do you have asthma or any other difficulties breathing?,disability
+P03 ,Do you have any disabilities?,disability
+P04,How many days were you sick last year?,disability
+P05,Have you ever filed for workers' compensation?,disability
+P06,Have you ever been injured on the job?,disability
+P08,Have you ever been treated for mental health problems?,disability
+P09,Have you ever been treated for drug addiction?,disability
+P10,How often did you use illegal drugs in the past?,disability
+P11,Have you ever participated in an alcohol rehabilitation program?,disability
+P13,Have you ever taken AZT?,disability
+P14,Do you need reasonable accommodation to perform this job?,disability
+P17,Have you ever needed workplace accommodations at a previous job?,disability
+P71,What physical or mental impairments do you have?,disability
+P72,"Are you able to perform major life activities, such as standing, lifting or walking?",disability
+P19,Are you pregnant?,pregnancy
+P20,Are you married?,sex
+P21,Do you plan to marry?,sex
+P22,How many children do you have?,sex
+P23,What are the ages of your children?,sex
+P73,Are you planning to be pregnant?,pregnancy
+P24,What are your childcare arrangements?,sex
+P25,What does your spouse do for work?,sex
+P26,What is your spouse's name?,sex
+P35,What is your religious affiliation?,religion
+P36,"What church, synagogue, or mosque do you attend?",religion
+P37,What days do you worship?,religion
+P38,What religious holidays do you observe?,religion
+P39,"Who is your pastor, rabbi, priest, or imam?",religion
+P40,Are you Christian?,religion
+P75,Are you Muslim?,religion
+P76,Are you Buddhist?,religion
+P77,Are you Hindu?,religion
+P78,Are you Jewish?,religion
+P41,Are you required to wear a head scarf due to religious observance?,religion
+P50,What is your nationality?,nat_origin
+P51,Where were you born?,nat_origin
+P52,What is your native language?,nat_origin
+P53,Where are your parents from?,nat_origin
+P74,What language is spoken in your home?,nat_origin
+P54,Are you a United States citizen?,nat_origin
+P57,What is your race?,race
+P79,What is your ethnic background?,race
+P58,What is your complexion or skin color?,color
+P64,Does heart disease run in your family?,genetic
+P65,Has anyone in your family been diagnosed with cancer?,genetic
+P66,Do your parents have any health conditions I should know about?,genetic
+P67,Are you willing to undergo genetic testing for this job?,genetic
+P68,Have you or your family members ever received genetic counseling?,genetic
+P70,"Do mental health conditions such as bipolar disorder, depression or schizophrenia run in your family?",genetic

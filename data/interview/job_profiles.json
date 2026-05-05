@@ -1,0 +1,302 @@
+[
+  {
+    "soc_code": "47-2141.00",
+    "job_title": "Construction Painter",
+    "dimension": "PHYSICAL",
+    "zone": 2,
+    "description": "Paint walls, equipment, buildings, bridges, and other structural surfaces, using brushes, rollers, and spray guns. May remove old paint to prepare surface prior to painting. May mix colors or oils to obtain desired color or consistency.",
+    "tasks": [
+      "Cover surfaces with dropcloths or masking tape and paper to protect surfaces during painting.",
+      "Read work orders or receive instructions from supervisors or homeowners to determine work requirements.",
+      "Apply paint, stain, varnish, enamel, or other finishes to equipment, buildings, bridges, or other structures, using brushes, spray guns, or rollers.",
+      "Fill cracks, holes, or joints with caulk, putty, plaster, or other fillers, using caulking guns or putty knives.",
+      "Smooth surfaces, using sandpaper, scrapers, brushes, steel wool, or sanding machines.",
+      "Erect scaffolding or swing gates, or set up ladders, to work above ground level."
+    ]
+  },
+  {
+    "soc_code": "37-2012.00",
+    "job_title": "Housekeeper",
+    "dimension": "PHYSICAL",
+    "zone": 2,
+    "description": "Perform any combination of light cleaning duties to maintain private households or commercial establishments, such as hotels and hospitals, in a clean and orderly manner. Duties may include making beds, replenishing linens, cleaning rooms and halls, and vacuuming.",
+    "tasks": [
+      "Keep storage areas and carts well-stocked, clean, and tidy.",
+      "Carry linens, towels, toilet items, and cleaning supplies, using wheeled carts.",
+      "Clean rooms, hallways, lobbies, lounges, restrooms, corridors, elevators, stairways, locker rooms, and other work areas so that health standards are met.",
+      "Empty wastebaskets, empty and clean ashtrays, and transport other trash and waste to disposal areas.",
+      "Sweep, scrub, wax, or polish floors, using brooms, mops, or powered scrubbing and waxing machines.",
+      "Replenish supplies, such as drinking glasses, linens, writing supplies, and bathroom items."
+    ]
+  },
+  {
+    "soc_code": "47-2022.00",
+    "job_title": "Stonemason",
+    "dimension": "PHYSICAL",
+    "zone": 3,
+    "description": "Build stone structures, such as piers, walls, and abutments. Lay walks, curbstones, or special types of masonry for vats, tanks, and floors.",
+    "tasks": [
+      "Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",
+      "Lay out wall patterns or foundations, using straight edge, rule, or staked lines.",
+      "Set stone or marble in place, according to layout or pattern.",
+      "Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",
+      "Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",
+      "Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools."
+    ]
+  },
+  {
+    "soc_code": "33-3031.00",
+    "job_title": "Fish and Game Warden",
+    "dimension": "PHYSICAL",
+    "zone": 4,
+    "description": "Patrol assigned area to prevent fish and game law violations. Investigate reports of damage to crops or property by wildlife. Compile biological data.",
+    "tasks": [
+      "Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",
+      "Compile and present evidence for court actions.",
+      "Investigate hunting accidents or reports of fish or game law violations.",
+      "Protect and preserve native wildlife, plants, or ecosystems.",
+      "Issue warnings or citations and file reports as necessary.",
+      "Serve warrants and make arrests."
+    ]
+  },
+  {
+    "soc_code": "49-2091.00",
+    "job_title": "Avionics Technician",
+    "dimension": "HEALTH",
+    "zone": 3,
+    "description": "Install, inspect, test, adjust, or repair avionics equipment, such as radar, radio, navigation, and missile control systems in aircraft or space vehicles.",
+    "tasks": [
+      "Test and troubleshoot instruments, components, and assemblies, using circuit testers, oscilloscopes, or voltmeters.",
+      "Keep records of maintenance and repair work.",
+      "Adjust, repair, or replace malfunctioning components or assemblies, using hand tools or soldering irons.",
+      "Install electrical and electronic components, assemblies, and systems in aircraft, using hand tools, power tools, or soldering irons.",
+      "Set up and operate ground support and test equipment to perform functional flight tests of electrical and electronic systems.",
+      "Assemble components such as switches, electrical controls, and junction boxes, using hand tools or soldering irons."
+    ]
+  },
+  {
+    "soc_code": "29-2034.00",
+    "job_title": "Radiologic Technologist",
+    "dimension": "HEALTH",
+    "zone": 3,
+    "description": "Take x-rays and CAT scans or administer nonradioactive materials into patient's bloodstream for diagnostic or research purposes. Includes radiologic technologists and technicians who specialize in other scanning modalities.",
+    "tasks": [
+      "Position imaging equipment and adjust controls to set exposure time and distance, according to specification of examination.",
+      "Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.",
+      "Monitor patients' conditions and reactions, reporting abnormal signs to physician.",
+      "Explain procedures and observe patients to ensure safety and comfort during scan.",
+      "Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.",
+      "Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes."
+    ]
+  },
+  {
+    "soc_code": "29-2056.00",
+    "job_title": "Veterinary Technician",
+    "dimension": "HEALTH",
+    "zone": 3,
+    "description": "Perform medical tests in a laboratory environment for use in the treatment and diagnosis of diseases in animals. Prepare vaccines and serums for prevention of diseases. Prepare tissue samples, take blood samples, and execute laboratory tests, such as urinalysis and blood counts. Clean and sterilize instruments and materials and maintain equipment and machines. May assist a veterinarian during surgery.",
+    "tasks": [
+      "Administer anesthesia to animals, under the direction of a veterinarian, and monitor animals' responses to anesthetics so that dosages can be adjusted.",
+      "Care for and monitor the condition of animals recovering from surgery.",
+      "Maintain controlled drug inventory and related log books.",
+      "Perform laboratory tests on blood, urine, or feces, such as urinalyses or blood counts, to assist in the diagnosis and treatment of animal health problems.",
+      "Prepare and administer medications, vaccines, serums, or treatments, as prescribed by veterinarians.",
+      "Restrain animals during exams or procedures."
+    ]
+  },
+  {
+    "soc_code": "19-4092.00",
+    "job_title": "Forensic Science Technician",
+    "dimension": "HEALTH",
+    "zone": 4,
+    "description": "Collect, identify, classify, and analyze physical evidence related to criminal investigations. Perform tests on weapons or substances, such as fiber, hair, and tissue to determine significance to investigation. May testify as expert witnesses on evidence or crime laboratory techniques. May serve as specialists in area of expertise, such as ballistics, fingerprinting, handwriting, or biochemistry.",
+    "tasks": [
+      "Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",
+      "Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",
+      "Use photographic or video equipment to document evidence or crime scenes.",
+      "Testify in court about investigative or analytical methods or findings.",
+      "Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.",
+      "Measure and sketch crime scenes to document evidence."
+    ]
+  },
+  {
+    "soc_code": "43-5071.00",
+    "job_title": "Shipping and Receiving Clerk",
+    "dimension": "SCHEDULE",
+    "zone": 2,
+    "description": "Verify and maintain records on incoming and outgoing shipments involving inventory. Duties include verifying and recording incoming merchandise or material and arranging for the transportation of products. May prepare items for shipment.",
+    "tasks": [
+      "Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy.",
+      "Requisition and store shipping materials and supplies to maintain inventory of stock.",
+      "Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials.",
+      "Pack, seal, label, or affix postage to prepare materials for shipping, using hand tools, power tools, or postage meter.",
+      "Record shipment data, such as weight, charges, space availability, damages, or discrepancies, for reporting, accounting, or recordkeeping purposes.",
+      "Confer or correspond with establishment representatives to rectify problems, such as damages, shortages, or nonconformance to specifications."
+    ]
+  },
+  {
+    "soc_code": "35-1011.00",
+    "job_title": "Head Cook",
+    "dimension": "SCHEDULE",
+    "zone": 3,
+    "description": "Direct and may participate in the preparation, seasoning, and cooking of salads, soups, fish, meats, vegetables, desserts, or other foods. May plan and price menu items, order supplies, and keep records and accounts.",
+    "tasks": [
+      "Monitor sanitation practices to ensure that employees follow standards and regulations.",
+      "Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",
+      "Supervise or coordinate activities of cooks or workers engaged in food preparation.",
+      "Order or requisition food or other supplies needed to ensure efficient operation.",
+      "Inspect supplies, equipment, or work areas to ensure conformance to established standards.",
+      "Check the quantity and quality of received products."
+    ]
+  },
+  {
+    "soc_code": "31-9094.00",
+    "job_title": "Medical Transcriptionist",
+    "dimension": "SCHEDULE",
+    "zone": 3,
+    "description": "Transcribe medical reports recorded by physicians and other healthcare practitioners using various electronic devices, covering office visits, emergency room visits, diagnostic imaging studies, operations, chart reviews, and final summaries. Transcribe dictated reports and translate abbreviations into fully understandable form. Edit as necessary and return reports in either printed or electronic form for review and signature, or correction.",
+    "tasks": [
+      "Return dictated reports in printed or electronic form for physician's review, signature, and corrections and for inclusion in patients' medical records.",
+      "Produce medical reports, correspondence, records, patient-care information, statistics, medical research, and administrative material.",
+      "Identify mistakes in reports and check with doctors to obtain the correct information.",
+      "Review and edit transcribed reports or dictated material for spelling, grammar, clarity, consistency, and proper medical terminology.",
+      "Transcribe dictation for a variety of medical reports, such as patient histories, physical examinations, emergency room visits, operations, chart reviews, consultation, or discharge summaries.",
+      "Distinguish between homonyms and recognize inconsistencies and mistakes in medical terms, referring to dictionaries, drug references, and other sources on anatomy, physiology, and medicine."
+    ]
+  },
+  {
+    "soc_code": "17-2141.00",
+    "job_title": "Mechanical Engineer",
+    "dimension": "SCHEDULE",
+    "zone": 4,
+    "description": "Perform engineering duties in planning and designing tools, engines, machines, and other mechanically functioning equipment. Oversee installation, operation, maintenance, and repair of equipment such as centralized heat, gas, water, and steam systems.",
+    "tasks": [
+      "Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",
+      "Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",
+      "Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",
+      "Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",
+      "Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.",
+      "Recommend design modifications to eliminate machine or system malfunctions."
+    ]
+  },
+  {
+    "soc_code": "43-4181.00",
+    "job_title": "Ticket Agent",
+    "dimension": "PUBLIC",
+    "zone": 2,
+    "description": "Make and confirm reservations for transportation or lodging, or sell transportation tickets. May check baggage and direct passengers to designated concourse, pier, or track; deliver tickets and contact individuals and groups to inform them of package tours; or provide tourists with travel or transportation information.",
+    "tasks": [
+      "Examine passenger documentation to determine destinations and to assign boarding passes.",
+      "Trace lost, delayed, or misdirected baggage for customers.",
+      "Check baggage and cargo and direct passengers to designated locations for loading.",
+      "Provide boarding or disembarking assistance to passengers needing special assistance.",
+      "Confer with customers to determine their service requirements and travel preferences.",
+      "Announce arrival and departure information, using public address systems."
+    ]
+  },
+  {
+    "soc_code": "13-1071.00",
+    "job_title": "HR Specialist",
+    "dimension": "PUBLIC",
+    "zone": 4,
+    "description": "Recruit, screen, interview, or place individuals within an organization. May perform other activities in multiple human resources areas.",
+    "tasks": [
+      "Interpret and explain human resources policies, procedures, laws, standards, or regulations.",
+      "Hire employees and process hiring-related paperwork.",
+      "Maintain current knowledge of Equal Employment Opportunity (EEO) and affirmative action guidelines and laws, such as the Americans with Disabilities Act (ADA).",
+      "Prepare or maintain employment records related to events, such as hiring, termination, leaves, transfers, or promotions, using human resources management system software.",
+      "Address employee relations issues, such as harassment allegations, work complaints, or other employee concerns.",
+      "Review employment applications and job orders to match applicants with job requirements."
+    ]
+  },
+  {
+    "soc_code": "25-2022.00",
+    "job_title": "Middle School Teacher",
+    "dimension": "PUBLIC",
+    "zone": 4,
+    "description": "Teach one or more subjects to students at the middle, intermediate, or junior high school level.",
+    "tasks": [
+      "Prepare materials and classrooms for class activities.",
+      "Observe and evaluate students' performance, behavior, social development, and physical health.",
+      "Instruct through lectures, discussions, and demonstrations in one or more subjects, such as English, mathematics, or social studies.",
+      "Prepare, administer, and grade tests and assignments to evaluate students' progress.",
+      "Establish and enforce rules for behavior and procedures for maintaining order among students.",
+      "Establish clear objectives for all lessons, units, and projects, and communicate these objectives to students."
+    ]
+  },
+  {
+    "soc_code": "29-1123.00",
+    "job_title": "Physical Therapist",
+    "dimension": "PUBLIC",
+    "zone": 5,
+    "description": "Assess, plan, organize, and participate in rehabilitative programs that improve mobility, relieve pain, increase strength, and improve or correct disabling conditions resulting from disease or injury.",
+    "tasks": [
+      "Plan, prepare, or carry out individually designed programs of physical treatment to maintain, improve, or restore physical functioning, alleviate pain, or prevent physical dysfunction in patients.",
+      "Perform and document an initial exam, evaluating data to identify problems and determine a diagnosis prior to intervention.",
+      "Record prognosis, treatment, response, and progress in patient's chart or enter information into computer.",
+      "Instruct patient and family in treatment procedures to be continued at home.",
+      "Evaluate effects of treatment at various stages and adjust treatments to achieve maximum benefit.",
+      "Confer with the patient, medical practitioners, or appropriate others to plan, implement, or assess the intervention program."
+    ]
+  },
+  {
+    "soc_code": "43-9071.00",
+    "job_title": "Office Machine Operator",
+    "dimension": "NEUTRAL",
+    "zone": 2,
+    "description": "Operate one or more of a variety of office machines, such as photocopying, photographic, and duplicating machines, or other office machines.",
+    "tasks": [
+      "Read job orders to determine the type of work to be done, the quantities to be produced, and the materials needed.",
+      "Deliver completed work.",
+      "Place original copies in feed trays, feed originals into feed rolls, or position originals on tables beneath camera lenses.",
+      "Sort, assemble, and proof completed work.",
+      "Operate office machines such as high speed business photocopiers, readers, scanners, addressing machines, stencil-cutting machines, microfilm readers or printers, folding and inserting machines, bursters, and binder machines.",
+      "Complete records of production, including work volumes and outputs, materials used, and any backlogs."
+    ]
+  },
+  {
+    "soc_code": "25-4031.00",
+    "job_title": "Library Technician",
+    "dimension": "NEUTRAL",
+    "zone": 4,
+    "description": "Assist librarians by helping readers in the use of library catalogs, databases, and indexes to locate books and other materials; and by answering questions that require only brief consultation of standard reference. Compile records; sort and shelve books or other media; remove or repair damaged books or other media; register patrons; and check materials in and out of the circulation process. Replace materials in shelving area (stacks) or files. Includes bookmobile drivers who assist with providing services in mobile libraries.",
+    "tasks": [
+      "Reserve, circulate, renew, and discharge books and other materials.",
+      "Answer routine telephone or in-person reference inquiries, referring patrons to librarians for further assistance, when necessary.",
+      "Help patrons find and use library resources, such as reference materials, audio-visual equipment, computers, and other electronic resources and provide technical assistance when needed.",
+      "Deliver and retrieve items throughout the library by hand or using pushcart.",
+      "Process print and non-print library materials to prepare them for inclusion in library collections.",
+      "Catalogue and sort books and other print and non-print materials according to procedure and return them to shelves, files, or other designated storage areas."
+    ]
+  },
+  {
+    "soc_code": "27-3042.00",
+    "job_title": "Technical Writer",
+    "dimension": "NEUTRAL",
+    "zone": 4,
+    "description": "Write technical materials, such as equipment manuals, appendices, or operating and maintenance instructions. May assist in layout work.",
+    "tasks": [
+      "Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",
+      "Maintain records and files of work and revisions.",
+      "Edit, standardize, or make changes to material prepared by other writers or establishment personnel.",
+      "Select photographs, drawings, sketches, diagrams, and charts to illustrate material.",
+      "Interview production and engineering personnel and read journals and other material to become familiar with product technologies and production methods.",
+      "Develop or maintain online help documentation."
+    ]
+  },
+  {
+    "soc_code": "15-2041.00",
+    "job_title": "Statistician",
+    "dimension": "NEUTRAL",
+    "zone": 5,
+    "description": "Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information. May specialize in fields such as biostatistics, agricultural statistics, business statistics, or economic statistics. Includes mathematical and survey statisticians.",
+    "tasks": [
+      "Analyze and interpret statistical data to identify significant differences in relationships among sources of information.",
+      "Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",
+      "Report results of statistical analyses, including information in the form of graphs, charts, and tables.",
+      "Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",
+      "Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",
+      "Develop and test experimental designs, sampling techniques, and analytical methods."
+    ]
+  }
+]

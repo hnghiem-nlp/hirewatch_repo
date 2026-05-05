@@ -1,0 +1,192 @@
+{
+  "description": "V4 official model list — 16 models for main sweep. Thinking disabled/minimal for primary runs.",
+  "default_reasoning_effort": "none",
+  "default_temperature": 0.0,
+  "default_k": 25,
+  "models": [
+    {
+      "id": 1,
+      "provider": "OpenAI",
+      "name": "GPT-4o-mini",
+      "model_id": "gpt-4o-mini",
+      "api_route": "openai",
+      "tokens_per_trial": 125,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 2,
+      "provider": "OpenAI",
+      "name": "GPT-4.1-mini",
+      "model_id": "gpt-4.1-mini",
+      "api_route": "openai",
+      "tokens_per_trial": 74,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 3,
+      "provider": "OpenAI",
+      "name": "GPT-5.4-mini",
+      "model_id": "gpt-5.4-mini",
+      "api_route": "openai",
+      "tokens_per_trial": 128,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 4,
+      "provider": "Anthropic",
+      "name": "Claude Haiku 3.5",
+      "model_id": "anthropic/claude-3.5-haiku",
+      "api_route": "openrouter",
+      "tokens_per_trial": 77,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 5,
+      "provider": "Anthropic",
+      "name": "Claude Haiku 4.5",
+      "model_id": "claude-haiku-4-5-20251001",
+      "api_route": "anthropic",
+      "tokens_per_trial": 77,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 6,
+      "provider": "Anthropic",
+      "name": "Claude Sonnet 4.6",
+      "model_id": "claude-sonnet-4-6",
+      "api_route": "anthropic",
+      "tokens_per_trial": 128,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 7,
+      "provider": "Google",
+      "name": "Gemini 2.5 Flash",
+      "model_id": "google/gemini-2.5-flash",
+      "api_route": "openrouter",
+      "tokens_per_trial": 124,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 8,
+      "provider": "Google",
+      "name": "Gemini 2.5 Pro",
+      "model_id": "google/gemini-2.5-pro-preview",
+      "api_route": "openrouter",
+      "tokens_per_trial": 109,
+      "thinking": true,
+      "thinking_control": "reasoning.max_tokens=1",
+      "extra_flags": "--reasoning-effort none"
+    },
+    {
+      "id": 9,
+      "provider": "Google",
+      "name": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "api_route": "openrouter",
+      "tokens_per_trial": 190,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 10,
+      "provider": "Meta",
+      "name": "Llama 3.3 70B",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "api_route": "openrouter",
+      "tokens_per_trial": 125,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 11,
+      "provider": "Meta",
+      "name": "Llama 4 Maverick",
+      "model_id": "meta-llama/llama-4-maverick",
+      "api_route": "openrouter",
+      "tokens_per_trial": 75,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 12,
+      "provider": "Alibaba",
+      "name": "Qwen3 235B",
+      "model_id": "qwen/qwen3-235b-a22b",
+      "api_route": "openrouter",
+      "tokens_per_trial": 124,
+      "thinking": true,
+      "thinking_control": "reasoning.effort=none",
+      "extra_flags": "--reasoning-effort none"
+    },
+    {
+      "id": 13,
+      "provider": "Alibaba",
+      "name": "Qwen3.5 9B",
+      "model_id": "qwen/qwen3.5-9b",
+      "api_route": "openrouter",
+      "tokens_per_trial": 191,
+      "thinking": true,
+      "thinking_control": "reasoning.effort=none",
+      "extra_flags": "--reasoning-effort none"
+    },
+    {
+      "id": 14,
+      "provider": "DeepSeek",
+      "name": "DeepSeek V3.2",
+      "model_id": "deepseek/deepseek-chat-v3-0324",
+      "api_route": "openrouter",
+      "tokens_per_trial": 75,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 15,
+      "provider": "Mistral",
+      "name": "Mistral Small 3.1",
+      "model_id": "mistralai/mistral-small-3.1-24b-instruct",
+      "api_route": "openrouter",
+      "tokens_per_trial": 191,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 16,
+      "provider": "Mistral",
+      "name": "Mistral Large",
+      "model_id": "mistralai/mistral-large-2411",
+      "api_route": "openrouter",
+      "tokens_per_trial": 125,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 17,
+      "provider": "OpenAI",
+      "name": "GPT-5.4",
+      "model_id": "gpt-5.4",
+      "api_route": "openai",
+      "tokens_per_trial": 127,
+      "thinking": false,
+      "extra_flags": ""
+    },
+    {
+      "id": 18,
+      "provider": "Anthropic",
+      "name": "Claude Opus 4.7",
+      "model_id": "claude-opus-4-7",
+      "api_route": "anthropic",
+      "tokens_per_trial": 154,
+      "thinking": false,
+      "extra_flags": "",
+      "notes": "temperature parameter deprecated; see llm_client.py"
+    }
+  ]
+}

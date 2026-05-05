@@ -1,0 +1,64 @@
+{
+  "paths": {
+    "data_dir": "data",
+    "canonical_law": "data/canonical/canonical_law.json",
+    "task_law_mapping": "data/mappings/task_law_mapping.json",
+    "question_bank": "data/question_bank/question_bank.json",
+    "scenario_templates": "data/templates/scenario_templates.json",
+    "scenario_instances": "data/scenarios/scenario_instances.json",
+    "results_dir": "results"
+  },
+  "generation": {
+    "default_scenarios_per_law": 10,
+    "default_questions_per_scenario": 15,
+    "violation_rate_target": 0.4,
+    "randomize_question_order": true
+  },
+  "evaluation": {
+    "default_trials_per_variant": 50,
+    "statistical_significance_threshold": 0.05,
+    "effect_size_threshold_small": 0.2,
+    "effect_size_threshold_medium": 0.5,
+    "effect_size_threshold_large": 0.8,
+    "fdr_correction_method": "benjamini_hochberg"
+  },
+  "llm": {
+    "default_model": "gpt-4o-mini",
+    "temperature": 0.0,
+    "max_tokens": 1024,
+    "retry_attempts": 3,
+    "retry_delay_seconds": 5,
+    "model_overrides": {
+      "Qwen/Qwen3-Next-80B-A3B-Instruct": {
+        "no_thinking": true,
+        "max_tokens": 2048
+      },
+      "Qwen/Qwen3-8B": {
+        "no_thinking": true,
+        "max_tokens": 16384
+      },
+      "qwen/qwen3.5-9b": {
+        "reasoning_effort": "none"
+      },
+      "qwen/qwen3-32b": {
+        "reasoning_max_tokens": 1,
+        "max_tokens": 4096
+      },
+      "qwen/qwen3-235b-a22b": {
+        "reasoning_effort": "none"
+      },
+      "google/gemini-2.5-pro-preview": {
+        "max_tokens": 8192,
+        "reasoning_max_tokens": 1
+      },
+      "google/gemini-2.5-pro": {
+        "max_tokens": 8192,
+        "reasoning_max_tokens": 1
+      },
+      "deepseek/deepseek-r1": {
+        "max_tokens": 8192,
+        "reasoning_max_tokens": 1
+      }
+    }
+  }
+}

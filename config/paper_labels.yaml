@@ -1,0 +1,188 @@
+# paper_labels.yaml — Single source of truth for all paper-facing names.
+# Every notebook, LaTeX table generator, and figure script reads from here
+# via src/analysis/labels.py. Edit names here to propagate everywhere.
+
+# ---- Escalation Ladder ----
+# Each tier is cumulative. Tiers 1-3 are context-only; 4-7 add pressure.
+tiers:
+  - number: 1
+    slug: onet_title_only
+    short: Baseline
+    full: Baseline
+    description: Job title only
+    group: context
+
+  - number: 2
+    slug: onet_baseline
+    short: Job duties
+    full: Job duties
+    description: "+ Six O*NET key responsibilities"
+    group: context
+
+  - number: 3
+    slug: onet_enhanced
+    short: Job context
+    full: Job context
+    description: "+ Dimension-specific job requirements"
+    group: context
+
+  - number: 4
+    slug: onet_memo_v2
+    short: Memo
+    full: Hiring manager memo
+    description: "Tiers 1--3 + personal disclosure pressure"
+    group: pressure
+
+  - number: 5
+    slug: onet_override_authority
+    short: Authority
+    full: Senior operations memo
+    description: "Tiers 1--3 + seniority-based authority override"
+    group: pressure
+
+  - number: 6
+    slug: onet_override_policy
+    short: Policy
+    full: Policy memo
+    description: "Tiers 1--3 + simulated company policy"
+    group: pressure
+
+  - number: 7
+    slug: onet_override_insurance
+    short: Insurance
+    full: Insurance memo
+    description: "Tiers 1--3 + simulated insurance mandate"
+    group: pressure
+
+# ---- Model Roster ----
+# Order within family: older/smaller first, newer/larger LAST (hero = darkest).
+models:
+  - slug: gpt-4o-mini
+    name: GPT-4o-mini
+    family: OpenAI
+
+  - slug: gpt-4.1-mini
+    name: GPT-4.1-mini
+    family: OpenAI
+
+  - slug: gpt-5.4-mini
+    name: GPT-5.4-mini
+    family: OpenAI
+
+  - slug: gpt-5.4
+    name: GPT-5.4
+    family: OpenAI
+
+  - slug: anthropic_claude-3.5-haiku
+    name: Haiku 3.5
+    family: Anthropic
+
+  - slug: claude-haiku-4-5-20251001
+    name: Haiku 4.5
+    family: Anthropic
+
+  - slug: claude-sonnet-4-6
+    name: Sonnet 4.6
+    family: Anthropic
+
+  - slug: claude-opus-4-7
+    name: Opus 4.7
+    family: Anthropic
+
+  - slug: google_gemini-2.5-flash
+    name: Gemini 2.5 Flash
+    family: Google
+
+  - slug: google_gemini-2.5-pro-preview
+    name: Gemini 2.5 Pro
+    family: Google
+
+  - slug: google_gemini-3-flash-preview
+    name: Gemini 3 Flash
+    family: Google
+
+  - slug: meta-llama_llama-3.3-70b-instruct
+    name: Llama 3.3 70B
+    family: Meta
+
+  - slug: meta-llama_llama-4-maverick
+    name: Llama 4 Mav
+    family: Meta
+
+  - slug: qwen_qwen3.5-9b
+    name: Qwen3.5 9B
+    family: Alibaba
+
+  - slug: qwen_qwen3-235b-a22b
+    name: Qwen3 235B
+    family: Alibaba
+
+  - slug: deepseek_deepseek-chat-v3-0324
+    name: DeepSeek V3
+    family: DeepSeek
+
+  - slug: mistralai_mistral-small-3.1-24b-instruct
+    name: Mistral Small
+    family: Mistral
+
+  - slug: mistralai_mistral-large-2411
+    name: Mistral Large
+    family: Mistral
+
+# ---- Provider Family Colors (hex) ----
+family_colors:
+  OpenAI:    "#1D9E75"
+  Anthropic: "#7F77DD"
+  Google:    "#378ADD"
+  Meta:      "#D85A30"
+  Alibaba:   "#BA7517"
+  DeepSeek:  "#D4537E"
+  Mistral:   "#888780"
+
+# ---- Safety Levels ----
+# (suffix appended to condition slug, column name for CSVs, display label)
+safety_levels:
+  - suffix: ""
+    column: no_safe
+    label: None
+
+  - suffix: "_safe_weak"
+    column: safe_weak
+    label: Weak
+
+  - suffix: "_safe"
+    column: safe_strong
+    label: Strong
+
+  - suffix: "_safe_cfr"
+    column: safe_law
+    label: Legal text
+
+# ---- Personas ----
+personas:
+  A:
+    employees: 10
+    hr: false
+    description: "10 employees, no HR department, below Title VII threshold"
+
+  B:
+    employees: 50
+    hr: true
+    description: "50 employees, with HR department"
+
+  C:
+    employees: 10000
+    hr: true
+    description: "10,000 employees, with HR department and legal team"
+
+# ---- Escalation Ladder Table Colors ----
+# Used by the notebook that generates latex/tables/escalation_ladder.tex
+ladder_colors:
+  context:
+    bg: ["F1EFE8", "E6F1FB", "B5D4F4"]
+    fg: ["5F5E5A", "185FA5", "0C447C"]
+    label: "Occupational\\\\[2pt]details"
+  pressure:
+    bg: ["F0997B", "F0997B", "F0997B", "F0997B"]
+    fg: ["712B13", "712B13", "712B13", "712B13"]
+    label: "Organizational\\\\[2pt]pressure"
